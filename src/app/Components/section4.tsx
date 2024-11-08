@@ -14,7 +14,7 @@ export default function Section4() {
                     </div>
                     <button className="bg-[#4F9CF9] w-[171px] h-[63px] rounded-[6px] py-[20px] px-[40px] flex flex-row items-center justify-between">
                         <div className="font-inter text-[18px] font-[500] leading-[23px] text-white">
-                            Let's Go
+                            Let&apos;s Go
                         </div>    
                         <img src="/Arrow.png" alt="Logo" className="w-[10px] h-[10px]" />
                     </button>
