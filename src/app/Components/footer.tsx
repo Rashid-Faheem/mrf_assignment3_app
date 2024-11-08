@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="h-[169px] flex gap-[100px]  text-white justify-between ">
           <div className="flex flex-col gap-[15px] w-[295px]">
             <div className="w-[191px] h-[34px] flex items-center justify-between ">
-              <img src="/logo.png" alt="Logo" className="w-[37px] h-[29px]" />
+              <img src="/Logo.png" alt="Logo" className="w-[37px] h-[29px]" />
               <h3 className=" font-bold text-[28px] text-[#FFFFFF] leading-[34px] w-[144px] left-[47px]">
                 whitepace
               </h3>
