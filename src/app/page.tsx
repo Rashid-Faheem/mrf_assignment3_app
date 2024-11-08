@@ -1,9 +1,13 @@
-import Image from "next/image";
+import Hero from "./Components/hero";
+import Project from "./Components/project";
+import Worktogether from "./Components/worktogether";
 
 export default function Home() {
   return (
     <div>
-      <p></p>
+      <Hero />
+      <Project />
+      <Worktogether />
     </div>
   );
 }

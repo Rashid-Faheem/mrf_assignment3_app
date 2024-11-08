@@ -14,7 +14,7 @@ export default function Navbar() {
                     <li>Pricing</li>
                 </ul>
                 <div className="w-[126px] h-[60px] gap-[24px] flex items-center">
-                    <button className="bg-[#FFE492] rounded-[4px] px-[40px] py-[16px]">
+                    <button className="bg-[#FFE492] rounded-[8px] px-[40px] py-[16px]">
                         <h2 className="font-inter text-[18px] font-[500] text-[#043873]">Login</h2>
                     </button>
                 </div>
