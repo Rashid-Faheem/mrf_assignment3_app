@@ -1,7 +1,7 @@
 
 export default function Navbar() {
     return (
-        <div className="font-inter w-[1920px] px-[220px] py-[16px] h-[92px] text-white bg-[#043873]  flex flex-row items-center justify-between ">
+        <div className="font-inter w-[1921px] px-[220px] py-[16px] h-[92px] text-white bg-[#043873]  flex flex-row items-center justify-between ">
             <div className="w-[191px] h-[34px] flex items-center justify-between ">
                 <img src="/logo.png" alt="Logo" className="w-[37px] h-[29px]" />
                 <h3 className=" font-bold text-[28px] text-[#FFFFFF] leading-[34px] w-[144px] left-[47px]">whitepace</h3>
